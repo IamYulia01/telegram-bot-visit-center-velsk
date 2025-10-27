@@ -1,0 +1,6 @@
+{
+    "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Port=5432;Database=VisitCenterBot;Username=postgres;Password=your_password"
+  },
+    "dotnet.defaultSolution": "Telegram-bot.sln"
+}
