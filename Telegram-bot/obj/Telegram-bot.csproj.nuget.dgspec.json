@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Диплом_приложение\\Telegram-bot\\Telegram-bot.csproj": {}
+    "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Telegram-bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Диплом_приложение\\Telegram-bot\\Telegram-bot.csproj": {
+    "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Telegram-bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Диплом_приложение\\Telegram-bot\\Telegram-bot.csproj",
+        "projectUniqueName": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Telegram-bot.csproj",
         "projectName": "Telegram-bot",
-        "projectPath": "C:\\Users\\Asus\\Диплом_приложение\\Telegram-bot\\Telegram-bot.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Диплом_приложение\\Telegram-bot\\obj\\",
+        "projectPath": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Telegram-bot.csproj",
+        "packagesPath": "C:\\Users\\malov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\malov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -62,6 +62,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
@@ -88,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

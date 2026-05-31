@@ -11,7 +11,7 @@ public partial class Route
 
     public string? NameRoute { get; set; }
 
-    public int IdUser { get; set; }
+    public long IdUser { get; set; }
 
     public virtual Userbot IdUserNavigation { get; set; } = null!;
 

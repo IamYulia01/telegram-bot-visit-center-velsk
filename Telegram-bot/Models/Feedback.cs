@@ -13,7 +13,7 @@ public partial class Feedback
 
     public string ContactCommunicationNumber { get; set; } = null!;
 
-    public int IdUser { get; set; }
+    public long IdUser { get; set; }
 
     public virtual Userbot IdUserNavigation { get; set; } = null!;
 }

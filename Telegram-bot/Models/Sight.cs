@@ -13,11 +13,9 @@ public partial class Sight
 
     public string LocationStreet { get; set; } = null!;
 
-    public string LocationHouse { get; set; } = null!;
+    public string? LocationHouse { get; set; } = null!;
 
     public string? Description { get; set; }
-
-    public int? NumberSeats { get; set; }
 
     public string? ContactNumber { get; set; }
 

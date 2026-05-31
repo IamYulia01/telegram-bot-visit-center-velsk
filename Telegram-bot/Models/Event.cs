@@ -13,7 +13,7 @@ public partial class Event
 
     public string StreetEvent { get; set; } = null!;
 
-    public string HouseEvent { get; set; } = null!;
+    public string? HouseEvent { get; set; } = null!;
 
     public DateOnly? DateEvent { get; set; }
 

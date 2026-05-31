@@ -1,11 +1,12 @@
 using System.Collections.Concurrent;
+using System.Threading;
+using Telegram.Bot.Types;
 
 namespace Telegram_bot.Services
 {
     public class StateService
     {
         private readonly ConcurrentDictionary<long, string> _userSections = new();
-
         public void SetUserSection(long chatId, string section)
         {
             _userSections[chatId] = section;
@@ -19,6 +20,6 @@ namespace Telegram_bot.Services
         public void ResetUserSection(long chatId)
         {
             _userSections.TryRemove(chatId, out _);
-        }
+        }        
     }
 }

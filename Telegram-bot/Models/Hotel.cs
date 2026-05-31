@@ -16,6 +16,7 @@ public partial class Hotel
     public string ContactNumberHotel { get; set; } = null!;
 
     public string? HotelUrl { get; set; }
-
+    public string? TypeHotel { get; set; }
+    public virtual ICollection<PhotoHotel> PhotoHotels { get; set; } = new List<PhotoHotel>();
     public virtual ICollection<RouteCateringHotel> RouteCateringHotels { get; set; } = new List<RouteCateringHotel>();
 }

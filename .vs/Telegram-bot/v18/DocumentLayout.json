@@ -1,0 +1,672 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\userdoing\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\userdoing\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\userdoing\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\userdoing\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\userdoing\\cateringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\userdoing\\cateringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\keyboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\keyboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\generalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\generalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\mediasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\mediasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\visitcentercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\visitcentercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malov\\Desktop\\visit-center\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\telegram-bot.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\telegram-bot.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\userdoing\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\userdoing\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\userdoing\\sightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\userdoing\\sightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\telegram-bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\telegram-bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\routeeventsight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\routeeventsight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\userbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\userbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\specialdaycatering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\specialdaycatering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\specialdaysight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\specialdaysight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\catering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\catering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\userdoing\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\userdoing\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\userdoing\\souvenirservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\userdoing\\souvenirservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\sightoperatingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\sightoperatingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\cateringmodeoperationcatering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\cateringmodeoperationcatering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\sight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\sight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\modeoperationcatering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\modeoperationcatering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\photosight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\photosight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\services\\userdoing\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\services\\userdoing\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\typekitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\typekitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malov\\AppData\\Local\\SourceServer\\fbee1a0efa123d679ce5f1bff55461d23ced4b4773295a0aafda1d1618243503\\Telegram-bot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\cateringtypekitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\cateringtypekitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\souvenir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\souvenir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\photohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\photohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|c:\\users\\malov\\desktop\\bot\\telegram-bot-visit-center-velsk\\telegram-bot\\models\\operatingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F2271-25D7-4A1D-B866-FB6AF68D774E}|Telegram-bot\\Telegram-bot.csproj|solutionrelative:telegram-bot\\models\\operatingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\UserProfileService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Telegram-bot\\Services\\UserDoing\\UserProfileService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyboardService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\KeyboardService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\KeyboardService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\KeyboardService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\KeyboardService.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAUwPoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:01:09.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\StateService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\StateService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\StateService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\StateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:31:18.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CateringService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\CateringService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\UserDoing\\CateringService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\CateringService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\UserDoing\\CateringService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAcwN0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:50:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\EventService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\UserDoing\\EventService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\EventService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\UserDoing\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:41:03.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\HotelService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\UserDoing\\HotelService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\HotelService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\UserDoing\\HotelService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:40:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneralService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\GeneralService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\GeneralService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\GeneralService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\GeneralService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:53:20.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Program.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Program.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Program.cs",
+              "RelativeToolTip": "Telegram-bot\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwIQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:39:50.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MediaSettings.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\MediaSettings.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\MediaSettings.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\MediaSettings.cs",
+              "RelativeToolTip": "Telegram-bot\\MediaSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:07:04.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Telegram-bot",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Telegram-bot.csproj",
+              "RelativeDocumentMoniker": "Telegram-bot\\Telegram-bot.csproj",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Telegram-bot.csproj",
+              "RelativeToolTip": "Telegram-bot\\Telegram-bot.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-05T22:18:52.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VisitCenterContext.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\VisitCenterContext.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\VisitCenterContext.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\VisitCenterContext.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\VisitCenterContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA4wEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:17:10.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\visit-center\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\visit-center\\appsettings.json",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\visit-center\\appsettings.json",
+              "RelativeToolTip": "..\\..\\visit-center\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-05T22:32:35.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\RouteService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\UserDoing\\RouteService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\RouteService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\UserDoing\\RouteService.cs",
+              "ViewState": "AgIAALMBAAAAAAAAAAAAAMcBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:40:45.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\appsettings.json",
+              "RelativeDocumentMoniker": "Telegram-bot\\appsettings.json",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\appsettings.json",
+              "RelativeToolTip": "Telegram-bot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T12:56:37.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SightService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\SightService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\UserDoing\\SightService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\SightService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\UserDoing\\SightService.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:40:29.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Telegram-bot.csproj",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Telegram-bot.csproj",
+              "RelativeDocumentMoniker": "Telegram-bot\\Telegram-bot.csproj",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Telegram-bot.csproj",
+              "RelativeToolTip": "Telegram-bot\\Telegram-bot.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T11:59:16.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteEventSight.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\RouteEventSight.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\RouteEventSight.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\RouteEventSight.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\RouteEventSight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:55:49.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpecialDayCatering.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\SpecialDayCatering.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\SpecialDayCatering.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\SpecialDayCatering.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\SpecialDayCatering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:27:01.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpecialDaySight.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\SpecialDaySight.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\SpecialDaySight.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\SpecialDaySight.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\SpecialDaySight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:27:03.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\UserProfileService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\UserDoing\\UserProfileService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\UserProfileService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\UserDoing\\UserProfileService.cs",
+              "ViewState": "AgIAAP4BAAAAAAAAAIBJwBkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T21:31:38.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Feedback.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:00:35.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Userbot.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Userbot.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\Userbot.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Userbot.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\Userbot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:54:50.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Catering.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Catering.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\Catering.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Catering.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\Catering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:56:22.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SouvenirService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\SouvenirService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\UserDoing\\SouvenirService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\SouvenirService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\UserDoing\\SouvenirService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:41:09.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\UserDoing\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\FeedbackService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\UserDoing\\FeedbackService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwGYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:24:09.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Event.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:07:49.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Hotel.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:06:28.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SightOperatingMode.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\SightOperatingMode.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\SightOperatingMode.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\SightOperatingMode.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\SightOperatingMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:00:15.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CateringModeOperationCatering.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\CateringModeOperationCatering.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\CateringModeOperationCatering.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\CateringModeOperationCatering.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\CateringModeOperationCatering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:56:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Sight.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Sight.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\Sight.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Sight.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\Sight.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:08:07.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ModeOperationCatering.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\ModeOperationCatering.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\ModeOperationCatering.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\ModeOperationCatering.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\ModeOperationCatering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:04:19.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PhotoSight.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\PhotoSight.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\PhotoSight.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\PhotoSight.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\PhotoSight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:35:08.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\Route.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Route.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:18:49.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\EmailService.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Services\\UserDoing\\EmailService.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Services\\UserDoing\\EmailService.cs",
+              "RelativeToolTip": "Telegram-bot\\Services\\UserDoing\\EmailService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T20:22:02.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TypeKitchen.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\TypeKitchen.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\TypeKitchen.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\TypeKitchen.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\TypeKitchen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:23:19.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\AppData\\Local\\SourceServer\\fbee1a0efa123d679ce5f1bff55461d23ced4b4773295a0aafda1d1618243503\\Telegram-bot\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\fbee1a0efa123d679ce5f1bff55461d23ced4b4773295a0aafda1d1618243503\\Telegram-bot\\Program.cs",
+              "ToolTip": "C:\\Users\\malov\\AppData\\Local\\SourceServer\\fbee1a0efa123d679ce5f1bff55461d23ced4b4773295a0aafda1d1618243503\\Telegram-bot\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\fbee1a0efa123d679ce5f1bff55461d23ced4b4773295a0aafda1d1618243503\\Telegram-bot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:49:44.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CateringTypeKitchen.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\CateringTypeKitchen.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\CateringTypeKitchen.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\CateringTypeKitchen.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\CateringTypeKitchen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T20:52:48.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Ticket.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:09:59.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Souvenir.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Souvenir.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\Souvenir.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\Souvenir.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\Souvenir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:13:33.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PhotoHotel.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\PhotoHotel.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\PhotoHotel.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\PhotoHotel.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\PhotoHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:34:59.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OperatingMode.cs",
+              "DocumentMoniker": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\OperatingMode.cs",
+              "RelativeDocumentMoniker": "Telegram-bot\\Models\\OperatingMode.cs",
+              "ToolTip": "C:\\Users\\malov\\Desktop\\BOT\\telegram-bot-visit-center-velsk\\Telegram-bot\\Models\\OperatingMode.cs",
+              "RelativeToolTip": "Telegram-bot\\Models\\OperatingMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:04:56.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,7 +11,5 @@ public partial class OperatingMode
 
     public TimeOnly EndTime { get; set; }
 
-    public string? DayOfWeek { get; set; }
-
     public virtual ICollection<SightOperatingMode> SightOperatingModes { get; set; } = new List<SightOperatingMode>();
 }

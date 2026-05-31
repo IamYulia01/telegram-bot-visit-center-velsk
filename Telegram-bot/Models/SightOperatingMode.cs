@@ -9,9 +9,12 @@ public partial class SightOperatingMode
 
     public int IdSight { get; set; }
 
-    public int IdOperatingMode { get; set; }
+    public int? IdOperatingMode { get; set; }
+    public int? WorkingDayWeek { get; set; }
+    public int? IdSpecialDaySight { get; set; }
 
     public virtual OperatingMode IdOperatingModeNavigation { get; set; } = null!;
 
     public virtual Sight IdSightNavigation { get; set; } = null!;
+    public virtual SpecialDaySight IdSpecialDaySightNavigation { get; set; } = null!;
 }

@@ -6,12 +6,8 @@ namespace Telegram_bot;
 public partial class SpecialDayCatering
 {
     public int IdSpecialDayCatering { get; set; }
-
-    public int? Date { get; set; }
-
     public string? StatusDay { get; set; }
+    public DateOnly Date { get; set; }
 
-    public TimeOnly? TimeStartWork { get; set; }
-
-    public TimeOnly? TimeEndWork { get; set; }
+    public virtual ICollection<CateringModeOperationCatering> CateringModeOperationCaterings { get; set; } = new List<CateringModeOperationCatering>();
 }

@@ -1,0 +1,2 @@
+C:\Users\malov\Desktop\visit-center\appsettings.json
+C:\Users\malov\Desktop\visit-center\Telegram-bot.exe
